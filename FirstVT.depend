@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1505408923 source:f:\codes\c++\firstvt\main.cpp
+	<iostream>
+	"fstream"
+	<cstring>
+	<cstdio>
+	<vector>
+	<stack>
+	<map>
+	<set>
+	<algorithm>
+	<string>
+	<cstdlib>
+	<cctype>
+
